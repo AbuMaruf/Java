@@ -1,0 +1,32 @@
+* What is the difference between JVM and JDK
+
+Answer: JVM defines for Java Virtual Machine. JVM is one kind of sowtware which was written for windows, linux or mac so that we don't 
+have to write separately for operating system. We mainly write java code based on JVM, we write java code once and it works for all operating system. 
+
+ and JDK means Java Development Kit. We need JDK to run the Java programs. JDK consists of java compiler, debugger, archiver etc.
+
+
+* Why we need JDK? 
+
+Answer: We need JDK to run any java program, without it we can't run any java code.
+
+
+* What is platform independence? Is java platform independent? How  same java code runs on windows, Linux, mac?
+
+Answer: Platform independence means we don't have any limitations. Yes, Java is platform independent. As i mention earlier, we write java code based on JVM,
+and JVM is written for windows, Linux and Mac or other operating systems. 
+
+* What is the different between JVM and JRE?
+
+Answer: JVM was/is written for windows, mac or linux so that we don't have to change the java code for all operating systems.
+And, JRE defines for Java Runtime Environment that's mean it helps any run any java code or program.
+
+* What is java bytecode ?
+Answer: Java bytecode is somekind of instruction which only can read by JVM. Whenever we compile any java code we get java bytecode and this bytecode stored in .class file.
+
+*What is javac?
+Answer: Javac is a standard java compiler which complies java code into bytecode, Javac is a part of JRE. 
+
+*What is the current version of java?
+
+Answer: Current version of Java is Java 8.
